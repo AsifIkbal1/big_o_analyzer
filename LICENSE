@@ -1,6 +1,12 @@
+
+---
+
+### **Step 6: `LICENSE`**
+Use an MIT License. Save this in `big_o_analyzer/LICENSE`:
+```plaintext
 MIT License
 
-Copyright (c) 2024 Md Asif Ikbal
+Copyright (c) 2024 Your Name
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
